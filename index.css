@@ -23,9 +23,9 @@ nav {
   align-items: center;
   position: relative;
   z-index: 1;
-  background: transparent;
-  /* background: rgb(17, 17, 43);
-      opacity: 0.6; */
+  /* background: transparent; */
+  background: red;
+  
 }
 nav h1 {
   font-size: 20px;
